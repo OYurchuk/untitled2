@@ -46,7 +46,7 @@ class CalculatorPanel extends JPanel {
 
         addButton("8", insert);
         addButton("8", insert);
-        addButton("9", insert);
+        addButton("8", insert);
         addButton("/", command);
 
         addButton("4", insert);
