@@ -44,7 +44,7 @@ class CalculatorPanel extends JPanel {
         panel = new JPanel();
         panel.setLayout(new GridLayout(5, 4));
 
-        addButton("7", insert);
+        addButton("8", insert);
         addButton("8", insert);
         addButton("9", insert);
         addButton("/", command);
